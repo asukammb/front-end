@@ -1,0 +1,28 @@
+.register-box {
+  width: 250px;
+  margin: 0 auto;
+  padding: 30px 50px;
+  border: 1px solid rgb(193, 184, 184);
+  border-radius: 6px;
+}
+
+
+#email,
+#name,
+#password{
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid rgb(193, 184, 184);
+  border-radius: 6px;
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(45, 156, 204);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
